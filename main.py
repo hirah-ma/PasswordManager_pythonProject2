@@ -51,7 +51,7 @@ def save():
 
 
 window =Tk()
-window.title("KEEPASS")
+window.title("KEEPPASS")
 window.config(padx=100 , pady= 100, bg=LBLUE)
 
 #label, entry and button
