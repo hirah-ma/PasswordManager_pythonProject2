@@ -2,6 +2,7 @@
 
 ## Overview
 This is a simple password manager app built using Python and Tkinter. It allows users to generate strong passwords and store their website, email, and password details securely.
+![KeepPass in Action](images/KGIF.gif)
 
 ## Features
 - Generate strong passwords with a combination of letters, numbers, and symbols.
